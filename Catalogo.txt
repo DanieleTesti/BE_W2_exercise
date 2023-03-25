@@ -1,0 +1,63 @@
+[
+
+BOOK 
+Titolo: Guerra e pace 
+Autore: Lev Nikolaevic Tolstoj
+Genere: ADVENTURE
+Numero pagine: 250
+Anno: 1950
+ISBN: 1, 
+
+BOOK 
+Titolo: Il processo
+Autore: Franz Kafka
+Genere: FANTASY
+Numero pagine: 530
+Anno: 1950
+ISBN: 2, 
+
+BOOK 
+Titolo: Madame Bovary
+Autore: Gustave Flaubert
+Genere: ART
+Numero pagine: 350
+Anno: 1980
+ISBN: 3, 
+
+BOOK 
+Titolo: Don Chisciotte della Mancia
+Autore: Miguel de Cervantes
+Genere: HISTORY
+Numero pagine: 320
+Anno: 1989
+ISBN: 4, 
+
+BOOK 
+Titolo: Il barone rampante
+Autore: Italo Calvino
+Genere: HORROR
+Numero pagine: 520
+Anno: 1687
+ISBN: 5, 
+
+BOOK 
+Titolo: Moby Dick
+Autore: Herman Melville  
+Genere: FANTASY
+Numero pagine: 540
+Anno: 2001
+ISBN: 6, 
+
+MAGAZINE 
+Titolo: magazine1
+Pubblicazione: MENSILE
+Numero pagine: 30
+Anno: 2010
+ISBN: 7, 
+
+MAGAZINE 
+Titolo: magazine2
+Pubblicazione: MENSILE
+Numero pagine: 46
+Anno: 2012
+ISBN: 8]
